@@ -19,18 +19,17 @@ console.log("The " + team + " are " + name + "'s favorite Quidditch team");
 var numberOfCreatures = 7;
 var creatures = "unicorns";
 
-console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
+console.log("My zoo has " + numberOfCreatures + " " + creatures + "!");
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
-// Your answer and explanation here: 
-
+// Your answer and explanation here: A concatation string is created using multiple variables.
 
 // YOU DO:
 // Write code that combines the variables below into a string that
 // reads "The quick red fox jumped over the lazy brown dog":
 var speedy = "quick red fox";
 var slowPoke = "lazy brown dog";
-
+console.log("the " + speedy + " jumped over the " + slowPoke);
 
 // YOU DO:
 // Write code that combines the variables below into a string that
@@ -39,17 +38,20 @@ var slowPoke = "lazy brown dog";
 
 slowPoke = "tortoise";
 speedy = "hare";
-
+console.log("In a predictable result, the " + slowPoke + " beat the " + speedy + "!");
 
 // YOU DO:
-// Declare three variables, name/content/data type of your choice. Think carefully about what 
+// Declare three variables, name/content/data type of your choice. Think carefully about what
   // you name the variables. Remember, the goal is to be concise but descriptive (it's a hard balance!)
   // Then, log out ONE sentence that incorporates all THREE variables.
-
-
+var age = 5;
+var child = "little boy";
+var gift = "bike";
+console.log("the " + age + " year old " + child + " wanted a " + gift + " for his birthday.");
+// the 5 year old little boy wanted a bike for his birthday
 //-------------------
 // FINAL CHECK
 //-------------------
 
-// Did you run this file in your terminal to make sure everything printed out to the console 
+// Did you run this file in your terminal to make sure everything printed out to the console
   // as you would expect? You should be doing this by now, and getting into the habit of it.
