@@ -43,13 +43,13 @@ class Burrito {
 }
   // ADD CODE
 
-var burrito1 = new Burrito("beef", "rice", "tomato, onion, sour cream");
+var burrito1 = new Burrito("beef", "rice", [tomato, onion, sour cream"]);
 var burrito2 = new Burrito("chicken", "rice", "tomato, onion, sour cream");
 var burrito3 = new Burrito("pork", "rice", "tomato, onion, sour cream");
 
 
 // ADD CODE
-burrito1.addTopping();
+//burrito1.addTopping();
 console.log(burrito1);
 
 burrito2.changeProtein();

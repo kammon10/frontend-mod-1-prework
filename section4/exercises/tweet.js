@@ -9,5 +9,25 @@ tweet object instances _behave_ as expected.
 */
 
 class Tweet {
+  constructor(author, content, timeStamp, numberOfLikes, comments) {
+  this.author  = author;
+  this.content = content;
+  this.time = timeStamp;
+  this.likes = numberOfLikes;
+  this.comments = comments;
+}
 
-};
+ moreLikes(){
+   this.likes++
+ }
+ moreComments(){
+   this.comments.push
+ }
+
+
+}
+
+var tweet = new Tweet("Kim", "attempt at fame", "Jun 20", 7, "new def");
+tweet.moreLikes();
+tweet.moreComments();
+console.log(tweet);
