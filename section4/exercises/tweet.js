@@ -26,8 +26,17 @@ class Tweet {
 
 
 }
-
+var fallTweet = new Tweet("Billy", "fall colors", "Sep 20th", 12, "so beautiful!");
+var friends = new Tweet("Adam", "boats!", "July 15", 39, "I love the water!!");
 var tweet = new Tweet("Kim", "attempt at fame", "Jun 20", 7, "new def");
 tweet.moreLikes();
 tweet.moreComments();
 console.log(tweet);
+
+friends.moreComments();
+friends.moreLikes();
+console.log(friends);
+
+fallTweet.moreLikes();
+fallTweet.moreComments();
+console.log(fallTweet);
