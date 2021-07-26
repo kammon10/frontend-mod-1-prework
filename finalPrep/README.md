@@ -31,10 +31,13 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here` [week 1](<img width="1440" alt="Screen Shot 2021-07-26 at 8 48 15 AM" src="https://user-images.githubusercontent.com/48331256/127010195-5a1d8984-f6d6-4ae5-9e77-d6ccc7021423.png">) 
-- `Add Week 2 Screenshot Here` [week 2](<img width="1440" alt="Screen Shot 2021-07-26 at 8 49 15 AM" src="https://user-images.githubusercontent.com/48331256/127010305-ce908e7f-eb16-4604-8ceb-88d6384b011e.png">)
+- `Add Week 1 Screenshot Here`
+[week 1](<img width="1440" alt="Screen Shot 2021-07-26 at 8 48 15 AM" src="https://user-images.githubusercontent.com/48331256/127010195-5a1d8984-f6d6-4ae5-9e77-d6ccc7021423.png">) 
+- `Add Week 2 Screenshot Here`
+[week 2](<img width="1440" alt="Screen Shot 2021-07-26 at 8 49 15 AM" src="https://user-images.githubusercontent.com/48331256/127010305-ce908e7f-eb16-4604-8ceb-88d6384b011e.png">)
 
-- `Add Week 3 Screenshot Here` [week 3](<img width="1440" alt="Screen Shot 2021-07-26 at 8 51 16 AM" src="https://user-images.githubusercontent.com/48331256/127010525-48bc52ff-1caa-48ad-a516-d17158456b88.png">)
+- `Add Week 3 Screenshot Here` 
+[week 3](<img width="1440" alt="Screen Shot 2021-07-26 at 8 51 16 AM" src="https://user-images.githubusercontent.com/48331256/127010525-48bc52ff-1caa-48ad-a516-d17158456b88.png">)
 
 ### Mentorship Prep
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
